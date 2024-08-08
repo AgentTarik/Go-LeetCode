@@ -6,8 +6,7 @@ import (
 )
 
 func main() {
-	myBool := problems.IsPalindrome(0)
 
-	fmt.Println(myBool)
+	fmt.Println(problems.RomanToInt("IV"))
 
 }
