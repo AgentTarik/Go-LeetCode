@@ -7,6 +7,6 @@ import (
 
 func main() {
 
-	fmt.Println(problems.RomanToInt("IV"))
+	fmt.Println(problems.IntToRoman(2888))
 
 }
