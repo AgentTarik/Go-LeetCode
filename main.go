@@ -7,6 +7,6 @@ import (
 
 func main() {
 
-	fmt.Println(problems.IntToRoman(2888))
+	fmt.Println(problems.Reverse(123))
 
 }
